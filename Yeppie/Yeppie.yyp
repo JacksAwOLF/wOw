@@ -154,7 +154,7 @@
             "Key": "c29e3de0-d601-4ddb-bd5d-6d8316f27a82",
             "Value": {
                 "id": "927aa163-d82d-4032-9645-0ec57c4aee61",
-                "resourcePath": "sprites\/sprite1\/sprite1.yy",
+                "resourcePath": "sprites\/sprite_white\/sprite_white.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -212,6 +212,14 @@
                 "id": "01f7b718-50d1-4f61-82c1-889bcf20bf48",
                 "resourcePath": "options\/mac\/options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "fd0f7094-a5c9-41ec-93d4-748d4a218556",
+            "Value": {
+                "id": "0348b8cf-c74d-435b-ae24-d83de2f2f4e7",
+                "resourcePath": "sprites\/sprite_grey\/sprite_grey.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],

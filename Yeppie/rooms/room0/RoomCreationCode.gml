@@ -1,0 +1,1 @@
+global.room_sum = 1
